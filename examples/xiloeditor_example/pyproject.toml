@@ -35,12 +35,12 @@ xiloeditor = "..\\.." # relative path
 
 [tool.uv]
 dev-dependencies = [
-    "flet[all]==0.27.6",
+    "flet[all]==0.26.0",
 ]
 
 [tool.uv.sources]
 xiloeditor = { path = "..\\..\\", editable = true }
 
 [tool.poetry.group.dev.dependencies]
-flet = {extras = ["all"], version = "0.27.6"}
+flet = {extras = ["all"], version = "0.26.0"}
 xiloeditor = {path = "..\\..\\", develop = true}
