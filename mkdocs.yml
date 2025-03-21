@@ -1,7 +1,0 @@
-site_name: Xiloeditor
-
-theme:
-  name: "material"
-
-plugins:
-  - mkdocstrings

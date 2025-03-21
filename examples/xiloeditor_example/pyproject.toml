@@ -8,8 +8,8 @@ authors = [
     { name = "Flet developer", email = "you@example.com" }
 ]
 dependencies = [
-  "xiloeditor",
-  "flet>=0.27.6",
+  "xiloeditor @ file://C:\\Users\\owen\\Desktop\\xiloeditor",
+  "flet>=0.26.0",
 ]
 
 [tool.flet]

@@ -23,16 +23,10 @@ Issues = "https://github.com/MyGithubAccount/xiloeditor/issues"
 [tool.uv]
 dev-dependencies = [
     "flet[all]==0.26.0",
-    "mkdocs", 
-    "mkdocs-material",
-    "mkdocstrings[python]"
 ]
 
 [tool.poetry.group.dev.dependencies]
 flet = {extras = ["all"], version = "0.26.0"}
-mkdocs = "*"
-mkdocstrings = { extras = ["python"], version = "*" }
-mkdocs-material = "*"
 
 [tool.setuptools]
 license-files = []

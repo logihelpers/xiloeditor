@@ -3,7 +3,6 @@ pyproject.toml
 src/flutter/xiloeditor/CHANGELOG.md
 src/flutter/xiloeditor/LICENSE
 src/flutter/xiloeditor/README.md
-src/flutter/xiloeditor/pubspec.lock
 src/flutter/xiloeditor/pubspec.yaml
 src/flutter/xiloeditor/lib/xiloeditor.dart
 src/flutter/xiloeditor/lib/src/create_control.dart

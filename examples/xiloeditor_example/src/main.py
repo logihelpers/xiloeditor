@@ -1,6 +1,6 @@
 import flet as ft
 
-from xiloeditor import XiloEditor
+from xiloeditor import Xiloeditor
 
 
 def main(page: ft.Page):
@@ -8,12 +8,12 @@ def main(page: ft.Page):
     page.horizontal_alignment = ft.CrossAxisAlignment.CENTER
 
     page.add(
-        ft.Container(expand=True,
-            content=XiloEditor(
-                expand=True,
-            ),
-            alignment=ft.alignment.center
-        )
+
+                ft.Container(height=150, width=300, alignment = ft.alignment.center, bgcolor=ft.Colors.PURPLE_200, content=Xiloeditor(
+                    tooltip="My new Xiloeditor Control tooltip",
+                    value = "My new Xiloeditor Flet Control", 
+                ),),
+
     )
 
 

@@ -1,1 +1,1 @@
-from xiloeditor.xiloeditor import XiloEditor
+from xiloeditor.xiloeditor import Xiloeditor

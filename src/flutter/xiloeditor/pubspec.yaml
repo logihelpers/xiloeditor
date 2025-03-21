@@ -9,10 +9,10 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  flet: 0.27.6
-  flutter_code_editor:
+  flet: 0.26.0
   flutter:
     sdk: flutter
+  flutter_code_editor: ^0.3.2
 
 dev_dependencies:
   flutter_test:
