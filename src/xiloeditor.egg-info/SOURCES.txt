@@ -1,0 +1,17 @@
+README.md
+pyproject.toml
+src/flutter/xiloeditor/CHANGELOG.md
+src/flutter/xiloeditor/LICENSE
+src/flutter/xiloeditor/README.md
+src/flutter/xiloeditor/pubspec.lock
+src/flutter/xiloeditor/pubspec.yaml
+src/flutter/xiloeditor/lib/xiloeditor.dart
+src/flutter/xiloeditor/lib/src/create_control.dart
+src/flutter/xiloeditor/lib/src/xiloeditor.dart
+src/xiloeditor/__init__.py
+src/xiloeditor/xiloeditor.py
+src/xiloeditor.egg-info/PKG-INFO
+src/xiloeditor.egg-info/SOURCES.txt
+src/xiloeditor.egg-info/dependency_links.txt
+src/xiloeditor.egg-info/requires.txt
+src/xiloeditor.egg-info/top_level.txt
