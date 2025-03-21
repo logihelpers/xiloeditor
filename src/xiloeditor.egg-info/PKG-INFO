@@ -9,7 +9,7 @@ Project-URL: Repository, https://github.com/MyGithubAccount/xiloeditor
 Project-URL: Issues, https://github.com/MyGithubAccount/xiloeditor/issues
 Requires-Python: >=3.9
 Description-Content-Type: text/markdown
-Requires-Dist: flet>=0.27.6
+Requires-Dist: flet>=0.26.0
 
 # xiloeditor
 Xiloeditor control for Flet

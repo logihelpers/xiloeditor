@@ -30,17 +30,10 @@ copyright = "Copyright (C) 2025 by MyCompany"
 [tool.flet.app]
 path = "src"
 
-[tool.flet.dev_packages]
-xiloeditor = "..\\.." # relative path
-
 [tool.uv]
 dev-dependencies = [
     "flet[all]==0.26.0",
 ]
 
-[tool.uv.sources]
-xiloeditor = { path = "..\\..\\", editable = true }
-
 [tool.poetry.group.dev.dependencies]
 flet = {extras = ["all"], version = "0.26.0"}
-xiloeditor = {path = "..\\..\\", develop = true}
